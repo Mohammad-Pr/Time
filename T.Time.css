@@ -45,4 +45,36 @@ color: rgb(0, 0, 0);
 background-color: rgb(255, 255, 255);
 color: rgb(255, 255, 0);
 transition: 0.2s;
+
+}
+
+.div1{
+text-shadow: 1px 1px 18px rgb(0, 213, 255);
+font-size: 80px;
+/* font-family: MonsieurLaDoulaise-Regular; */
+/* font-family: Clearlight-lJlq; */
+/* font-family: BIOWEAPON; */
+/* font-family: Luam-Bold; */
+font-family: TheNightWatch;
+}
+@font-face {
+    font-family: MonsieurLaDoulaise-Regular;
+    src: url('MonsieurLaDoulaise-Regular.ttf');
+}
+@font-face {
+    font-family: Clearlight-lJlq;
+    src: url('Clearlight-lJlq.ttf');
+}
+@font-face {
+    font-family: BIOWEAPON;
+    src: url('BIOWEAPON.ttf');
+}
+
+@font-face {
+    font-family: Luam-Bold;
+    src: url('Luam-Bold.ttf');
+}
+@font-face {
+    font-family: TheNightWatch;
+    src: url('TheNightWatch.ttf');
 }
